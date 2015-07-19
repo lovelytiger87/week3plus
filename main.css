@@ -1,0 +1,296 @@
+body {
+	width: 1000px;
+	height: 1500px;
+<<<<<<< HEAD
+}
+
+#s {
+	font-size: 40px;
+	color: #C42154;
+}
+span {
+	color: #C42154;
+}
+#s1 {
+	font-size: 40px;
+}
+nav {
+	padding-top: 40px;
+	background-color: #CBE5FE;
+}
+
+nav ul {
+	float: right;
+}
+
+nav li {
+	display: inline-block;
+	margin: 0 20px;
+
+}
+
+#navbar {
+	color: black;
+}
+nav a {
+	text-decoration: none;
+	color: #c42154;
+}
+
+img {
+	width: 100%;
+	box-shadow: 5px;
+	margin-top: 5%;
+}
+
+p {
+	text-align: left;
+	font-size: 1.2em;
+	margin-top: 3%;
+}
+
+.button {
+	float: left;
+	width: 70%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+button {
+	margin-top: 5%;
+	float: right;
+	border-radius: 5%;
+	color: black;
+
+}
+
+#button {
+	width: 30%;
+}
+
+button a {
+	text-decoration: none;
+
+}
+
+hr {
+	width: 100%;
+}
+
+#web {
+	width: 23%;
+	float: left;
+	margin-top: 5%;
+	margin-left: 2%;
+	margin-bottom: 5%;
+}
+
+div #web img {
+	width: 100%;
+	height: 200px;
+}
+a {
+	color: #C12854;
+	float: right;
+}
+
+.recentpost {
+	width: 22%;
+	float: left;
+	margin-left: 3%;
+
+}
+
+.post {
+	width: 40%;
+	float: left;
+	margin-left: 10%;
+}
+
+li {
+	float: left;
+	list-style: none;
+}
+
+div li {
+	display: list-item;
+	float: left;
+	list-style: none;
+}
+div li a {
+	text-align: left;
+	text-decoration: none;
+}
+
+li span {
+	color: black;
+}
+div a i {
+margin-right: 10px;
+}
+
+div #footer {
+	background-color: #333;
+}
+
+.post p {
+	font-size: 0.8em;
+}
+=======
+	
+}
+
+nav {
+	padding-top: 20px;
+}
+nav ul {
+	float: right;
+	font-family: 'Metrophobic', serif;
+
+	
+}
+
+nav li {
+	margin: 0 20px;
+	list-style: none;
+	display: inline-block;
+	color: #10151E;
+
+
+
+}
+nav i {
+	color: #E15DDB;
+	padding-left: 20px;
+
+}
+
+nav span {
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+}
+
+nav li a {
+	color: #10151E;
+	text-decoration: none;
+
+}
+span {
+	font-style: 
+}
+
+div {
+	text-align: center;
+	padding-top: 20px;
+}
+
+div h1 {
+	font-size: 20px;
+}
+div h1 span {
+	color: #F5AFBE;
+}
+
+#sunset {
+	width: 100%;
+	padding: 0 5px;
+	
+}
+
+#sunset img {
+	width: 100%;
+	border-radius: 10px;
+}
+
+.info {
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	text-align: left;
+
+	}
+.info h3 {
+	color: #F5AFBE;
+	text-align: center;
+}
+
+div #web {
+	width: 18%;
+	float: left;
+	display: inline-block;
+	border-color: black;
+	text-align: left;
+	padding-left: 10px;
+	
+	
+}
+
+#site img {
+	width: 100%;
+	height: 200px;
+	border-radius: 20%;
+	padding-top: 0;
+
+}
+
+a h2 {
+	font-style: cursive;
+	font-size: 20px;
+	color: #A7A5A1;
+}
+ div a {
+ 	text-decoration: none;
+ }
+
+ a p {
+ 	color: #F5AFBE;
+ }
+#thank {
+	color: #F5AFBE;
+	font-family: 'Indie Flower';
+	font-size: 40px;
+	width: 100%;
+	float: left;
+
+}
+#contact {
+ 	width: 45%;
+ 	float: left;
+ 	display: inline-block;
+ 	text-align: left;
+ 	padding-left: 5%;
+ 	border-spacing: 10px;
+ 	margin-bottom: 20px;
+
+ }
+input {
+	width: 50%;
+	margin-top: 5%;
+}
+textarea {
+	width: 50%;
+	margin-top: 5%;
+}
+
+button {
+	float: left;
+	width: 50%;
+}
+
+#social {
+	width: 50%;
+	height: 200%;
+	float: right;
+	padding-top: 10%;
+}
+
+.container {
+	background-color: black;
+	display: inline-block;
+	width: 100%;
+}
+
+hr {
+	width: 100%;
+}
+
+>>>>>>> 52a3c33f7e24d6e761084f93b56596b79f076c7a
